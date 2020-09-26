@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 coded_locations.pickle
+coded_locations_test.pickle
+submission_*.csv
