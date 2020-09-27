@@ -2,3 +2,7 @@
 coded_locations.pickle
 coded_locations_test.pickle
 submission_*.csv
+bag_of_words*.csv
+test_cleaned*.csv
+train_cleaned*.csv
+simple_docvec*.csv
