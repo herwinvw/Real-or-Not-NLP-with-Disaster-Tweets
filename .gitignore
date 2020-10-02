@@ -6,3 +6,4 @@ bag_of_words*.csv
 test_cleaned*.csv
 train_cleaned*.csv
 simple_docvec*.csv
+avg_wordvec*.csv
