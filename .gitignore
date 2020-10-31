@@ -1,9 +1,12 @@
 .ipynb_checkpoints
-coded_locations.pickle
-coded_locations_test.pickle
+*.pickle
+*.pickle
 submission_*.csv
 bag_of_words*.csv
 test_cleaned*.csv
 train_cleaned*.csv
 simple_docvec*.csv
 avg_wordvec*.csv
+svm_docvec.csv
+test_wordvec.csv
+train_wordvec.csv
