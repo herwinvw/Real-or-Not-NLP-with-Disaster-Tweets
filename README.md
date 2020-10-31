@@ -9,3 +9,8 @@ A [random baseline model](baseline_model.ipynb) is developed to determine the mi
 
 ## Data cleanup
 [Data cleanup](data_cleanup.ipynb)
+
+## First simple model
+A simple [bag of words](bag_of_words.ipynb) model is trained on the tweet text only. It performs surprisingly well (public score: 0.79), but seems overfitted on the data.
+
+## Docvec model
