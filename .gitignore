@@ -8,5 +8,6 @@ train_cleaned*.csv
 simple_docvec*.csv
 avg_wordvec*.csv
 svm_docvec.csv
-test_wordvec.csv
-train_wordvec.csv
+test_*.csv
+train_*.csv
+
