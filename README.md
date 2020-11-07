@@ -20,3 +20,9 @@ Docvecs are learned from the tweet text and used as a feature in a classifier. [
 Calculate the average wordvec for every tweet using [spaCy](https://spacy.io/). Use the average wordvec as a feature in a classifier. This improves upon the bag of words model (public score: 0.82). Notebooks:
  * [Generating docvecs](feature_engineering_wordvecs.ipynb)
  * [Model](avg_wordvec.ipynb)
+
+## Using metadata information
+Feature engineer some tweet metadata and see if useful predictions can be made with it.
+* [Geocoding locations](geocode_locations.ipynb)
+* [Generation metadata features](feature_engineering_metafeatures.ipynb)
+* [Training a model on metadata only](metadata_model.ipynb)
