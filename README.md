@@ -22,7 +22,10 @@ Calculate the average wordvec for every tweet using [spaCy](https://spacy.io/). 
  * [Model](avg_wordvec.ipynb)
 
 ## Using metadata information
-Feature engineer some tweet metadata and see if useful predictions can be made with it.
+Feature engineer some tweet metadata and see if useful predictions can be made with it. The model performs better than the random baseline (public score: 0.64).
 * [Geocoding locations](geocode_locations.ipynb)
 * [Generation metadata features](feature_engineering_metafeatures.ipynb)
 * [Training a model on metadata only](metadata_model.ipynb)
+
+## Combining metadata features and features based on tweet content
+
