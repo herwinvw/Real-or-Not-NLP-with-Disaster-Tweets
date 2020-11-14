@@ -10,4 +10,6 @@ avg_wordvec*.csv
 svm_docvec.csv
 test_*.csv
 train_*.csv
-
+stack_*.csv
+meta*.csv
+tfid*.csv
