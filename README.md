@@ -13,6 +13,10 @@ A [random baseline model](baseline_model.ipynb) is developed to determine the mi
 ## First simple model
 A simple [bag of words](bag_of_words.ipynb) model is trained on the tweet text only. It performs surprisingly well (public score: 0.79), but seems overfitted on the data.
 
+## Bag of words with tfidf
+Using a tfidf transformation on the bag of words improves performance slightly (publich score: 0.80).
+[Notebook](tfidf_bag_of_words.ipynb)
+
 ## Docvec model
 Docvecs are learned from the tweet text and used as a feature in a classifier. [This approach](docvec.ipynb) does not outperform the bag of words model (public score: 0.75). Perhaps there is not enough data to the docvecs.
 
