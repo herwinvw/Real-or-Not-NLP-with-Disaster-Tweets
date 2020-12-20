@@ -14,3 +14,4 @@ stack_*.csv
 meta*.csv
 tfid*.csv
 conv_net.csv
+gru.csv
