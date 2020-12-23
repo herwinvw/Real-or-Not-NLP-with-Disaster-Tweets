@@ -27,7 +27,7 @@ Calculate the average wordvec for every tweet using [spaCy](https://spacy.io/). 
 
 ## CNNs and RNNs
 Train a 1D Convolutional Network and several RNN variations on the wordvecs. The GRU performs marginally better than the wordvec averaging.
-[Notebook:](conv_wordvecs.ipynb)
+[Notebook](conv_wordvecs.ipynb)
 
 ## Using metadata information
 Feature engineer some tweet metadata and see if useful predictions can be made with it. The model performs better than the random baseline (public score: 0.64).
